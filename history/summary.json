@@ -1,20 +1,20 @@
 [
   {
-    "name": "Protfolio",
+    "name": "Portfolio",
     "url": "https://rpdev.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/rpdev.vercel.app.ico",
-    "slug": "protfolio",
+    "slug": "portfolio",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   }
 ]
