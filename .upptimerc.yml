@@ -21,5 +21,14 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "*/5 * * * *"  # Generate graphs every 5 minutes
+  responseTime: "0 23 * * *"  # Generate response time graphs daily
+  staticSite: "0 1 * * *"  # Update static site daily
+  summary: "0 0 * * *"  # Update summary daily
+  updateTemplate: "0 0 * * 0"  # Update template weekly
+  updates: "0 3 * * *"  # Check for updates daily
+  uptime: "*/5 * * * *"  # Check uptime every 5 minutes
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
